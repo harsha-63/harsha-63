@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="Coding Girl" width="700"/>
 </p>
 <h1 align="center">Hi 👋, I'm Fathima Harsha</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 - 📫 How to reach me **fathimaharshaummatt@gmail.com**
 
